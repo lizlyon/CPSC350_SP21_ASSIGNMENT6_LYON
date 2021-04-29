@@ -15,6 +15,7 @@
 
 ## References 
 * class notes and lectures
+* https://stackoverflow.com/questions/26964869/binary-search-tree-copying-a-tree
 
 ## Known errors
 * n/a
