@@ -4,7 +4,7 @@
 * BST Database Assignment.
 * Select an option from menu to get a console output.
 * To exit select option '14'.
-* **build instructions below**
+* **Build instructions located at the end**
 
 ## Identifying Information
 * Name: Liz Lyon
