@@ -1,6 +1,7 @@
 # CPSC350_SP21_ASSIGNMENT6_LYON
 
 ## Program
+* **Using late day 2/3 for this assignment**
 * BST Database Assignment.
 * Select an option from menu to get a console output.
 * To exit select option '14'.
