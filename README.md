@@ -11,7 +11,7 @@
 * Name: Liz Lyon
 * ID: 2377043
 * Email: elyon@chapman.edu
-* Course: CPSC350
+* Course: CPSC350-03
 
 ## Source files
 * main.cpp
