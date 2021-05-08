@@ -1,0 +1,3 @@
+101	Mary	Lecturer	Computer Science	19	354	190	49
+105	Carl	Assistant	English	88	12	30
+121	Nancy	Associate Professor	Art	37
