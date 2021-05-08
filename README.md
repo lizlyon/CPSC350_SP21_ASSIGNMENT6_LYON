@@ -41,6 +41,9 @@
 * https://www.youtube.com/watch?v=mS9755gF66w
 * https://www.learncpp.com/cpp-tutorial/overloading-the-arithmetic-operators-using-friend-functions/
 * https://learn.zybooks.com/zybook/CHAPMANCPSC298GermanWinter2021/chapter/9/section/9
+* https://www.javatpoint.com/cpp-manipulator-flush-function
+* https://www.cplusplus.com/doc/tutorial/files/
+* https://stackoverflow.com/questions/25475384/when-and-why-do-i-need-to-use-cin-ignore-in-c
 
 ## Known errors
 * n/a
