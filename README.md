@@ -5,6 +5,7 @@
 * BST Database Assignment.
 * Select an option from menu to get a console output.
 * To exit select option '14'.
+* .txt files are tab delimited.
 * **Build instructions located at the end**
 
 ## Identifying Information
