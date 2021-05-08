@@ -46,7 +46,7 @@
 * https://stackoverflow.com/questions/25475384/when-and-why-do-i-need-to-use-cin-ignore-in-c
 
 ## Known errors
-* n/a
+* option 10 is not working 
 
 ## Build instructions 
 * g++ *.cpp -o assignment6
