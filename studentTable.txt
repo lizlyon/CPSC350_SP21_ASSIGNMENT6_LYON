@@ -1,0 +1,5 @@
+12	Kate	Senior	Health Science	3.10	101
+19	Liz	Junior	Data Analytics	3.60	105
+30	James	Freshman	Economics	2.89	105
+37	Anne	Sophomore	Art	3.56	121
+49	Max	Junior	Music	3.49	101
